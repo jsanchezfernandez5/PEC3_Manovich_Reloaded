@@ -1,6 +1,7 @@
 # RETO ACTIVIDAD 3. Visionando el futuro con las gafas de Manovich: redescubriendo la hibridación
 
 Autor: **José Joaquín Sánchez Fernández**
+
 Fecha: **17 de mayo de 2023**
 
 En este presente artículo, se pretende reflejar la visión de Lev Manovich sobre la hibridación, mediante la exposición de dos ensayos sobre los software **Ikea Kreativ** y **OBS Studio**.
