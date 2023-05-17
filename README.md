@@ -6,8 +6,13 @@ Fecha: **17 de mayo de 2023**
 
 En este presente artículo, se pretende reflejar la visión de Lev Manovich sobre la hibridación, mediante la exposición de dos ensayos sobre los software **Ikea Kreativ** y **OBS Studio**.
 
+## Índice  
+
+1. [Ensayo sobre Ikea Kreativ](#ikea-kreativ-hibridando-experiencias-creativas)
 
 # IKEA Kreativ hibridando experiencias creativas
+
+
 
 ## Introducción
 
