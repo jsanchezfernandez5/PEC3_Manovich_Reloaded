@@ -67,7 +67,7 @@ Además, IKEA Kreativ trasciende los límites del usuario individual y **fomenta
 
 ## Introducción
 
-En este informe-ensayo exploraremos, desde la visión de Manovich, el software OBS (Open Broadcaster Software), un conjunto de medios que fusiona elementos digitales y multimedia, ofreciendo una marco colaborativo y creativo para los usuarios en el ámbito de la transmisión de contenido en línea y creación multimedia.
+En este informe-ensayo exploraremos, desde la visión de Manovich, el software **OBS (Open Broadcaster Software)**, un **conjunto de medios que fusiona elementos digitales**, ofreciendo una marco colaborativo y creativo para los usuarios en el ámbito de la **transmisión de contenido en línea y creación multimedia**.
 
 ![OBS Studio - Software libre y de código abierto para grabación de video y transmisión en vivo.](https://obsproject.com/assets/images/features-new/hero.png)
 
@@ -81,7 +81,8 @@ Su carácter abierto hace destacar el **impacto en la “democratización y dive
 
 Fuente: [https://es.wikipedia.org/wiki/Open_Broadcaster_Software](https://es.wikipedia.org/wiki/Open_Broadcaster_Software)
 
-## Bibliografía
+## Referencias
 
+* Manovich, Lev. (2013). El Software toma el mando. Barcelona: Editorial UOC.
 * Wikipedia - OBS Studio: [https://es.wikipedia.org/wiki/Open_Broadcaster_Software](https://es.wikipedia.org/wiki/Open_Broadcaster_Software)
 * Open Broadcaster Software | OBS: [https://obsproject.com/es](https://obsproject.com/es)
