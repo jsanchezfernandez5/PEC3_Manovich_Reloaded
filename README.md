@@ -31,8 +31,6 @@ Esta herramienta digital, **creada para diferentes dispositivos** móviles o a t
 
 _Fuente: [https://www.xataka.com/realidad-virtual-aumentada/nueva-app-ikea-vacia-tu-casa-para-luego-redecorarla-sus-muebles-que-viva-realidad-aumentada](https://www.xataka.com/realidad-virtual-aumentada/nueva-app-ikea-vacia-tu-casa-para-luego-redecorarla-sus-muebles-que-viva-realidad-aumentada)_
 
->[Vídeo Ikea Kreativ](https://www.youtube.com/watch?v=ir6Ds8kXf98)
-
 Tan fácil como **escanear** la estancia a través del dispositivo accediendo a la cámara, vaciándola con un “**clic**” a través del “**canvas interactivo**” y añadiendo mediante “**drag and drop**” **los productos que pueden ser filtrados en una búsqueda por diferentes atributos, girados y colocados como desee el cliente**, se genera un escenario magnífico para probar ideas de diseño en el espacio generado de una forma fácil, cómoda y visual.
 
 ![Fuente Ikea](https://storage.googleapis.com/wallspice-assets/aboutPageAssets/tablesSlider.png)
