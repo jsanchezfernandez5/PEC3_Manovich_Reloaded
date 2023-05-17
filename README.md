@@ -9,6 +9,7 @@ En este presente artículo, se pretende reflejar la visión de Lev Manovich sobr
 ## INFORME ENSAYOS  
 
 1. [Ensayo sobre Ikea Kreativ](#ikea-kreativ-hibridando-experiencias-creativas)
+2. [La hibridación interactiva y social de OBS Studio](#la-hibridación-interactiva-y-social-de-obs-studio)
 <br /><br /><br />
 
 # IKEA Kreativ hibridando experiencias creativas
@@ -60,3 +61,27 @@ Además, IKEA Kreativ trasciende los límites del usuario individual y **fomenta
 - XATAKA - La nueva app de IKEA vacía tu casa para luego redecorarla con sus muebles: que viva la realidad aumentada: [https://www.xataka.com/realidad-virtual-aumentada/nueva-app-ikea-vacia-tu-casa-para-luego-redecorarla-sus-muebles-que-viva-realidad-aumentada](https://www.xataka.com/realidad-virtual-aumentada/nueva-app-ikea-vacia-tu-casa-para-luego-redecorarla-sus-muebles-que-viva-realidad-aumentada)
 
 - IKEA Kreativ: [https://www.ikea.com/es/es/home-design/](https://www.ikea.com/es/es/home-design/)
+
+<br /><br /><br />
+# La hibridación interactiva y social de OBS Studio
+
+## Introducción
+
+En este informe-ensayo exploraremos, desde la visión de Manovich, el software OBS (Open Broadcaster Software), un conjunto de medios que fusiona elementos digitales y multimedia, ofreciendo una marco colaborativo y creativo para los usuarios en el ámbito de la transmisión de contenido en línea y creación multimedia.
+
+![OBS Studio - Software libre y de código abierto para grabación de video y transmisión en vivo.](https://obsproject.com/assets/images/features-new/hero.png)
+
+## ¿Qué es OBS Studio?
+
+>OBS Studio es un **software libre y de código abierto para la grabación y transmisión de vídeo por internet (streaming)**, mantenida por OBS Project. (https://github.com/obsproject/obs-studio)
+
+Su carácter abierto hace destacar el **impacto en la “democratización y diversidad de expresión”** desde la perspectiva de Lev Manovich, al brindar a las desarrolladores la libertad de leer, modificar y distribuir el software, fomentando la creatividad e innovación, además de permitir una amplio abanico de perspectivas en beneficio a posible su remediación.
+
+>Open Broadcaster Software está escrito en C y C++, y permite captura de fuentes de video en tiempo real, composición de escena, codificación, grabación y retransmisión. La transmisión de datos puede realizarse a través del protocolo Real Time Messaging Protocol (RTMP), y puede ser enviado a cualquier destino que soporte RTMP (por ejemplo Youtube), incluyendo muchos presets para sitios de streaming como Twitch, Admefy y DailyMotion.
+
+Fuente: [https://es.wikipedia.org/wiki/Open_Broadcaster_Software](https://es.wikipedia.org/wiki/Open_Broadcaster_Software)
+
+## Bibliografía
+
+* Wikipedia - OBS Studio: [https://es.wikipedia.org/wiki/Open_Broadcaster_Software](https://es.wikipedia.org/wiki/Open_Broadcaster_Software)
+* Open Broadcaster Software | OBS: [https://obsproject.com/es](https://obsproject.com/es)
