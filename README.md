@@ -53,7 +53,9 @@ En resumen, desde la perspectiva de este informe sobre la hibridación, IKEA Kre
 Además, IKEA Kreativ trasciende los límites del usuario individual y **fomenta la colaboración y el intercambio de ideas en una comunidad en línea**. La posibilidad de compartir diseños y obtener retroalimentación de otros usuarios estimula la interacción social y crea un espacio para la hibridación cultural. A través de esta plataforma, las ideas y los diseños se entrelazan, **generando un flujo constante de inspiración y enriquecimiento mutuo**, hecho que facilita a la empresa un ahorro de costes, personal y mejor aprovechamiento para obtener una compra.
 
 
-## Artículos Web
+## Referencias
+
+- Manovich, Lev. (2013). El Software toma el mando. Barcelona: Editorial UOC.
 
 - XATAKA - La nueva app de IKEA vacía tu casa para luego redecorarla con sus muebles: que viva la realidad aumentada: [https://www.xataka.com/realidad-virtual-aumentada/nueva-app-ikea-vacia-tu-casa-para-luego-redecorarla-sus-muebles-que-viva-realidad-aumentada](https://www.xataka.com/realidad-virtual-aumentada/nueva-app-ikea-vacia-tu-casa-para-luego-redecorarla-sus-muebles-que-viva-realidad-aumentada)
 
