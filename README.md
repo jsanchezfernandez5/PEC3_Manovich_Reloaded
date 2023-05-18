@@ -98,6 +98,7 @@ Como anteriormente hemos mencionado, OBS **presenta una estructura de datos y ca
 Sin duda una de sus grandes bazas, es la **posibilidad de mezclar diferentes fuentes**, desde **ventanas** de nuestro ordenador, incluir **texto** y **fondo**, permitiendo hacer una retransmisión o grabación con **estilo horizontal como si fuera un auténtico “switch” televisivo**, **donde el usuario se convierte en un realizador** pudiendo elegir en cada momento que escena mostrar.
 
 ![OBS Studio](https://obsproject.com/assets/images/features/FeatureDocksB.jpg)
+
 Fuente OSB Project: https://obsproject.com/assets/images/features/FeatureDocksB.jpg
 
 ## Conclusión
