@@ -73,7 +73,7 @@ Fuente: https://obsproject.com/assets/images/features-new/hero.png
 
 >OBS Studio es un **software libre y de código abierto para la grabación y transmisión de vídeo por internet (streaming)**, mantenida por OBS Project. (https://github.com/obsproject/obs-studio)
 
-Este carácter abierto hace destacar el **impacto en la “democratización y diversidad de expresión”** desde la perspectiva de Lev Manovich, al brindar a las desarrolladores la **libertad de leer, modificar y distribuir el software, fomentando la creatividad e innovación**, además de permitir una amplio abanico de perspectivas en beneficio a posible su remediación.
+Este carácter abierto hace destacar el **impacto en la “democratización y diversidad de expresión”** desde la perspectiva de Lev Manovich, al brindar a las desarrolladores la **libertad de leer, modificar y distribuir el software, fomentando la creatividad e innovación**, además de permitir una amplio abanico de perspectivas en beneficio de la remediación continua.
 
 >Open Broadcaster Software está escrito en C y C++, y permite captura de fuentes de video en tiempo real, composición de escena, codificación, grabación y retransmisión. La transmisión de datos puede realizarse a través del protocolo Real Time Messaging Protocol (RTMP), y puede ser enviado a cualquier destino que soporte RTMP (por ejemplo Youtube), incluyendo muchos presets para sitios de streaming como Twitch, Admefy y DailyMotion.
 
