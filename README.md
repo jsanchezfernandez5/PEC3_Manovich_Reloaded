@@ -16,7 +16,7 @@ En este presente artículo, se pretende reflejar la visión de Lev Manovich sobr
 
 ## Introducción
 
-En la actualidad, la hibridación se ha convertido en un fenómeno omnipresente en el ámbito del software como medio. En este informe, exploraremos desde la perspectiva de Manovich el concepto de hibridación y nos pondremos sus gafas visionarias para hablar del software propietario IKEA Kreativ.
+En la actualidad, la hibridación se ha convertido en un fenómeno omnipresente en el ámbito del software como herramienta de interacción con clientes y usuarios. En este informe, exploraremos desde la perspectiva de Manovich el concepto de hibridación y nos pondremos sus gafas visionarias para hablar del software propietario IKEA Kreativ.
 
 ![XATAKA - La nueva app de IKEA vacía tu casa para luego redecorarla con sus muebles: que viva la realidad aumentada](https://i.blogs.es/db7837/ikea/1366_2000.jpeg)
 
@@ -37,7 +37,7 @@ Tan fácil como **escanear** la estancia a través del dispositivo accediendo a 
 ![Fuente Ikea](https://storage.googleapis.com/wallspice-assets/aboutPageAssets/tablesSlider.png)
 Fuente: [https://www.ikea.com/es/es/home-design/learnmore/](https://www.ikea.com/es/es/home-design/learnmore/)
 
-IKEA Kreativ proporciona una **experiencia digital activa**, ya que los usuarios pueden **explorar y seleccionar una amplia variedad de muebles y accesorios** permitiendo una **interacción virtual** que antes solo era posible en la tienda física y “tirando de imaginación y abstracción”. Los usuarios pueden visualizar cómo verán los productos en su hogar, probar diferentes configuraciones y realizar ajustes antes de realizar una compra a través de su carrito. Esta combinación crea una **experiencia híbrida que brinda una sensación de inmediatez y realismo.**
+IKEA Kreativ proporciona una **experiencia digital activa** ya que los usuarios pueden **explorar y seleccionar una amplia variedad de muebles y accesorios** permitiendo una **interacción virtual** que antes solo era posible en la tienda física y “tirando de imaginación y abstracción”. Los usuarios pueden visualizar cómo verán los productos en su hogar, probar diferentes configuraciones y realizar ajustes antes de realizar una compra a través de su carrito. Esta combinación crea una **experiencia híbrida que brinda una sensación de inmediatez y realismo.**
 
 ## Puedes probar con estancias predefinidas decoradas o desde cero
 
@@ -49,9 +49,9 @@ Por último, la hibridación en IKEA Kreativ se extiende incluso más allá de l
 
 ## Conclusión
 
-En resumen, desde la perspectiva de este informe sobre la hibridación, IKEA Kreativ va más allá de la simple coexistencia de elementos virtuales y tangibles, ya que el software **permite a los usuarios ser creativos de su entorno, mezclando sus propias ideas y preferencias con las opciones proporcionadas por el software**, generando diseños personalizados y únicos, tan únicos como su propio hogar.
+En resumen, desde la perspectiva de este informe sobre la hibridación, IKEA Kreativ va más allá de la simple coexistencia de elementos virtuales y tangibles, ya que el software **permite a los usuarios ser creativos de su entorno, fusionando sus propias ideas y preferencias con las opciones proporcionadas por el software**, generando diseños personalizados y únicos, tan únicos como su propio hogar.
 
-Además, IKEA Kreativ trasciende los límites del usuario individual y **fomenta la colaboración y el intercambio de ideas en una comunidad en línea**. La posibilidad de compartir diseños y obtener retroalimentación de otros usuarios estimula la interacción social y crea un espacio para la hibridación cultural. A través de esta plataforma, las ideas y los diseños se entrelazan, **generando un flujo constante de inspiración y enriquecimiento mutuo**, hecho que facilita a la empresa un ahorro de costes, personal y mejor aprovechamiento para obtener una compra.
+Además, IKEA Kreativ trasciende los límites del usuario individual y **fomenta la colaboración y el intercambio de ideas en una comunidad en línea**. La posibilidad de compartir diseños y obtener retroalimentación de otros usuarios estimula la interacción social y crea un espacio para la hibridación cultural. A través de esta plataforma, las ideas y los diseños se entrelazan, **generando un flujo constante de inspiración y enriquecimiento mutuo**, hecho que facilita a la empresa un ahorro de costes, personal y, lógicamente, mayor éxito en la conversión de la venta.
 
 
 ## Referencias
@@ -73,7 +73,7 @@ Fuente: https://obsproject.com/assets/images/features-new/hero.png
 
 >OBS Studio es un **software libre y de código abierto para la grabación y transmisión de vídeo por internet (streaming)**, mantenida por OBS Project. (https://github.com/obsproject/obs-studio)
 
-Este carácter abierto hace destacar el **impacto en la “democratización y diversidad de expresión”** desde la perspectiva de Lev Manovich, al brindar a las desarrolladores la **libertad de leer, modificar y distribuir el software, fomentando la creatividad e innovación**, además de permitir una amplio abanico de perspectivas en beneficio de la remediación continua.
+Este carácter abierto hace destacar el **impacto en la “democratización y diversidad de expresión”** desde la perspectiva de Lev Manovich, al brindar a las desarrolladores la **libertad de leer, modificar y distribuir el software, fomentando la creatividad e innovación**, además de permitir un amplio abanico de perspectivas en beneficio de la remediación continua.
 
 >Open Broadcaster Software está escrito en C y C++, y permite captura de fuentes de video en tiempo real, composición de escena, codificación, grabación y retransmisión. La transmisión de datos puede realizarse a través del protocolo Real Time Messaging Protocol (RTMP), y puede ser enviado a cualquier destino que soporte RTMP (por ejemplo Youtube), incluyendo muchos presets para sitios de streaming como Twitch, Admefy y DailyMotion.
 
@@ -83,13 +83,13 @@ El hecho además de su **carácter social**, permite **compartir** con otros usu
 
 ## Descarga y comienza a transmitir rápidamente
 
-Como anteriormente hemos mencionado, OBS ha sido implementado en base al lenguaje C desarrollándolo con una **estructura de datos y capa de abstracción muy cercana al procesador**, dándole un gran eficacia y eficiencia que nos facilita herramientas muy parecidas a Premier Pro de Adobe, **permitiendo la captura y mezcla de sonido**, bien a través del micrófono o audio del dispositivo, y **vídeo a través de la webcam o mediante la inclusión de un clip “offline” a tiempo real** con alta calidad configurable, todo ello **a través de escenas ilimitadas** entre las cuales puedes cambiar fácilmente a través de transiciones personalizadas.
+Como anteriormente hemos mencionado, OBS ha sido implementado en base al lenguaje C desarrollándolo con una **estructura de datos y capa de abstracción muy cercana al procesador**, dándole un gran eficacia y eficiencia que nos facilita herramientas muy parecidas a Premier Pro de Adobe, **permitiendo la captura y mezcla de sonido**. Esta fusión se podrá hacer a través del micrófono o audio del dispositivo, y **vídeo a través de la webcam o mediante la inclusión de un clip “offline” a tiempo real** con alta calidad configurable, todo ello **a través de escenas ilimitadas** que pueden ser intercambiadas fácilmente a través de transiciones personalizadas.
 
 ![OBS Project](https://obsproject.com/assets/images/features/FeatureCompositingB.jpg)
 
 Fuente OBS Project: https://obsproject.com/assets/images/features/FeatureCompositingB.jpg
 
-Además, mediante la **fusión armónica de diferentes algoritmos**, y gracias a su sencilla y visual interfaz, **nos muestra multitud de herramientas** para realizar filtros para fuentes de vídeo como máscaras de color, correcciones, ajustes de chroma key, mezclador de audio intuitivo eliminando ruido mediante sus balances, entre otros.
+Por otro lado, mediante la **fusión armónica de diferentes algoritmos** y gracias a su sencilla y visual interfaz, **es capaz de mostrarnos multitud de herramientas** para realizar filtros para fuentes de vídeo como máscaras de color, correcciones, ajustes de chroma key, mezclador de audio intuitivo eliminando ruido mediante sus balances, entre otros.
 
 ## Creatividad e inmediatez
 
@@ -103,7 +103,7 @@ Fuente OSB Project: https://obsproject.com/assets/images/features/FeatureDocksB.
 
 ## Conclusión
 
-Como conclusión, podemos indicar que OBS ha tenido un impacto significativo en el ámbito de la hibridación, especialmente a través de su modularidad y flexibilidad de su interfaz permitiendo la capacidad para personalizar y reorganizar el diseño según las necesidades y preferencias de los usuarios que abren nuevas vías de expresión creativa, colaborativa y comunicativa.
+Como conclusión, podemos confirmar que OBS ha tenido un impacto significativo en el ámbito de la hibridación, especialmente a través de la modularidad y flexibilidad de su interfaz permitiendo la capacidad para personalizar y reorganizar el diseño según las necesidades y preferencias de los usuarios. Estas aportaciones abren nuevas vías de expresión creativa, colaborativa y comunicativa, una apuesta por el marketing experiencial y sobre todo por la personalización del servicios que tanto gusta en nuestra época.
 
 ## Referencias
 
