@@ -70,15 +70,40 @@ En este informe-ensayo exploraremos, desde la visión de Manovich, el software *
 ![OBS Studio - Software libre y de código abierto para grabación de video y transmisión en vivo.](https://obsproject.com/assets/images/features-new/hero.png)
 Fuente: https://obsproject.com/assets/images/features-new/hero.png
 
-## ¿Qué es OBS Studio?
+## OBS Studio y la democratización del software
 
 >OBS Studio es un **software libre y de código abierto para la grabación y transmisión de vídeo por internet (streaming)**, mantenida por OBS Project. (https://github.com/obsproject/obs-studio)
 
-Su carácter abierto hace destacar el **impacto en la “democratización y diversidad de expresión”** desde la perspectiva de Lev Manovich, al brindar a las desarrolladores la libertad de leer, modificar y distribuir el software, fomentando la creatividad e innovación, además de permitir una amplio abanico de perspectivas en beneficio a posible su remediación.
+Este carácter abierto hace destacar el **impacto en la “democratización y diversidad de expresión”** desde la perspectiva de Lev Manovich, al brindar a las desarrolladores la **libertad de leer, modificar y distribuir el software, fomentando la creatividad e innovación**, además de permitir una amplio abanico de perspectivas en beneficio a posible su remediación.
 
 >Open Broadcaster Software está escrito en C y C++, y permite captura de fuentes de video en tiempo real, composición de escena, codificación, grabación y retransmisión. La transmisión de datos puede realizarse a través del protocolo Real Time Messaging Protocol (RTMP), y puede ser enviado a cualquier destino que soporte RTMP (por ejemplo Youtube), incluyendo muchos presets para sitios de streaming como Twitch, Admefy y DailyMotion.
 
 Fuente: [https://es.wikipedia.org/wiki/Open_Broadcaster_Software](https://es.wikipedia.org/wiki/Open_Broadcaster_Software)
+
+El hecho además de su **carácter social**, permite **compartir** con otros usuarios una comunicación a través de diferentes plataformas a tiempo real, permitiendo que este cruce de "razas tecnológicas" generen un **escenario enriquecedor y comunicativo**.
+
+## Descarga y comienza a transmitir rápidamente
+
+Como anteriormente hemos mencionado, OBS ha sido implementado en base al lenguaje C desarrollándolo con una **estructura de datos y capa de abstracción muy cercana al procesador**, dándole un gran eficacia y eficiencia que nos facilita herramientas muy parecidas a Premier Pro de Adobe, **permitiendo la captura y mezcla de sonido**, bien a través del micrófono o audio del dispositivo, y **vídeo a través de la webcam o mediante la inclusión de un clip “offline” a tiempo real** con alta calidad configurable, todo ello **a través de escenas ilimitadas** entre las cuales puedes cambiar fácilmente a través transiciones personalizadas.
+
+![OBS Project](https://obsproject.com/assets/images/features/FeatureCompositingB.jpg)
+Fuente OBS Project: https://obsproject.com/assets/images/features/FeatureCompositingB.jpg
+
+Además, mediante la **fusión armónica de diferentes algoritmos**, y gracias a su sencilla y visual interfaz, **nos muestra multitud de herramientas** para realizar filtros para fuentes de vídeo como máscaras de color, correcciones, ajustes de chroma key, mezclador de audio intuitivo eliminando ruido mediante sus balances, entre otros.
+
+## Creatividad e inmediatez
+
+Como anteriormente hemos mencionado, OBS **ha sido programado en el lenguaje C (además de C++) con una estructura de datos y capa de abstracción muy cercana al procesador**. A parte de las características que hemos mencionado y mencionaremos, este magnífico software **permite la exportación de los contenidos creativos en diferentes formatos compatibles con la gran mayoría de dispositivos**.
+
+Sin duda una de sus grandes bazas, es la **posibilidad de mezclar diferentes fuentes**, desde **ventanas** de nuestro ordenador, incluir **texto** y **fondo**, permitiendo hacer una retransmisión o grabación con **estilo horizontal como si fuera un auténtico “switch” televisivo**, **donde el usuario se convierte en un realizador** pudiendo elegir en cada momento que escena mostrar.
+
+![OBS Studio](https://obsproject.com/assets/images/features/FeatureDocksB.jpg)
+Fuente OSB Project: https://obsproject.com/assets/images/features/FeatureDocksB.jpg
+
+## Conclusión
+
+...
+
 
 ## Referencias
 
