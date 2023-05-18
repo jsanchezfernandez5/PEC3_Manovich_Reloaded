@@ -20,7 +20,7 @@ En la actualidad, la hibridación se ha convertido en un fenómeno omnipresente 
 
 ![XATAKA - La nueva app de IKEA vacía tu casa para luego redecorarla con sus muebles: que viva la realidad aumentada](https://i.blogs.es/db7837/ikea/1366_2000.jpeg)
 
-Fuente: [https://i.blogs.es/db7837/ikea/1366_2000.jpeg](https://i.blogs.es/db7837/ikea/1366_2000.jpeg)
+Fuente XATAKA: [https://i.blogs.es/db7837/ikea/1366_2000.jpeg](https://i.blogs.es/db7837/ikea/1366_2000.jpeg)
 
 ## Vacía tu casa para luego redecorarla con objetos
 
