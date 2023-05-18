@@ -83,7 +83,7 @@ El hecho además de su **carácter social**, permite **compartir** con otros usu
 
 ## Descarga y comienza a transmitir rápidamente
 
-Como anteriormente hemos mencionado, OBS ha sido implementado en base al lenguaje C desarrollándolo con una **estructura de datos y capa de abstracción muy cercana al procesador**, dándole un gran eficacia y eficiencia que nos facilita herramientas muy parecidas a Premier Pro de Adobe, **permitiendo la captura y mezcla de sonido**, bien a través del micrófono o audio del dispositivo, y **vídeo a través de la webcam o mediante la inclusión de un clip “offline” a tiempo real** con alta calidad configurable, todo ello **a través de escenas ilimitadas** entre las cuales puedes cambiar fácilmente a través transiciones personalizadas.
+Como anteriormente hemos mencionado, OBS ha sido implementado en base al lenguaje C desarrollándolo con una **estructura de datos y capa de abstracción muy cercana al procesador**, dándole un gran eficacia y eficiencia que nos facilita herramientas muy parecidas a Premier Pro de Adobe, **permitiendo la captura y mezcla de sonido**, bien a través del micrófono o audio del dispositivo, y **vídeo a través de la webcam o mediante la inclusión de un clip “offline” a tiempo real** con alta calidad configurable, todo ello **a través de escenas ilimitadas** entre las cuales puedes cambiar fácilmente a través de transiciones personalizadas.
 
 ![OBS Project](https://obsproject.com/assets/images/features/FeatureCompositingB.jpg)
 
