@@ -93,7 +93,7 @@ Además, mediante la **fusión armónica de diferentes algoritmos**, y gracias a
 
 ## Creatividad e inmediatez
 
-Como anteriormente hemos mencionado, OBS **presenta una estructura de datos y capa de abstracción muy cercana al procesador**. A parte de las características que hemos mencionado, este magnífico software **permite la exportación de los contenidos creativos en diferentes formatos compatibles con la gran mayoría de dispositivos**.
+Como anteriormente hemos mencionado, OBS **presenta una estructura de datos y capa de abstracción muy cercana al procesador**. A parte de las características anteriores, este magnífico software **permite la exportación de los contenidos creativos en diferentes formatos compatibles con la gran mayoría de dispositivos**.
 
 Sin duda una de sus grandes bazas, es la **posibilidad de mezclar diferentes fuentes**, desde **ventanas** de nuestro ordenador, incluir **texto** y **fondo**, permitiendo hacer una retransmisión o grabación con **estilo horizontal como si fuera un auténtico “switch” televisivo**, **donde el usuario se convierte en un realizador** pudiendo elegir en cada momento que escena mostrar.
 
