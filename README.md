@@ -87,13 +87,14 @@ El hecho además de su **carácter social**, permite **compartir** con otros usu
 Como anteriormente hemos mencionado, OBS ha sido implementado en base al lenguaje C desarrollándolo con una **estructura de datos y capa de abstracción muy cercana al procesador**, dándole un gran eficacia y eficiencia que nos facilita herramientas muy parecidas a Premier Pro de Adobe, **permitiendo la captura y mezcla de sonido**, bien a través del micrófono o audio del dispositivo, y **vídeo a través de la webcam o mediante la inclusión de un clip “offline” a tiempo real** con alta calidad configurable, todo ello **a través de escenas ilimitadas** entre las cuales puedes cambiar fácilmente a través transiciones personalizadas.
 
 ![OBS Project](https://obsproject.com/assets/images/features/FeatureCompositingB.jpg)
+
 Fuente OBS Project: https://obsproject.com/assets/images/features/FeatureCompositingB.jpg
 
 Además, mediante la **fusión armónica de diferentes algoritmos**, y gracias a su sencilla y visual interfaz, **nos muestra multitud de herramientas** para realizar filtros para fuentes de vídeo como máscaras de color, correcciones, ajustes de chroma key, mezclador de audio intuitivo eliminando ruido mediante sus balances, entre otros.
 
 ## Creatividad e inmediatez
 
-Como anteriormente hemos mencionado, OBS **ha sido programado en el lenguaje C (además de C++) con una estructura de datos y capa de abstracción muy cercana al procesador**. A parte de las características que hemos mencionado y mencionaremos, este magnífico software **permite la exportación de los contenidos creativos en diferentes formatos compatibles con la gran mayoría de dispositivos**.
+Como anteriormente hemos mencionado, OBS **presenta una estructura de datos y capa de abstracción muy cercana al procesador**. A parte de las características que hemos mencionado, este magnífico software **permite la exportación de los contenidos creativos en diferentes formatos compatibles con la gran mayoría de dispositivos**.
 
 Sin duda una de sus grandes bazas, es la **posibilidad de mezclar diferentes fuentes**, desde **ventanas** de nuestro ordenador, incluir **texto** y **fondo**, permitiendo hacer una retransmisión o grabación con **estilo horizontal como si fuera un auténtico “switch” televisivo**, **donde el usuario se convierte en un realizador** pudiendo elegir en cada momento que escena mostrar.
 
@@ -102,8 +103,7 @@ Fuente OSB Project: https://obsproject.com/assets/images/features/FeatureDocksB.
 
 ## Conclusión
 
-...
-
+Como conclusión, podemos indicar que OBS ha tenido un impacto significativo en el ámbito de la hibridación, especialmente a través de su modularidad y flexibilidad de su interfaz permitiendo la capacidad para personalizar y reorganizar el diseño según las necesidades y preferencias de los usuarios que abren nuevas vías de expresión creativa, colaborativa y comunicativa.
 
 ## Referencias
 
