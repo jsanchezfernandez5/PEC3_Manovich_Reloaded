@@ -107,5 +107,6 @@ Como conclusión, podemos confirmar que OBS ha tenido un impacto significativo e
 
 ## Referencias
 
+* Manovich, Lev. (2013). El Software toma el mando. Barcelona: Editorial UOC.
 * Wikipedia - OBS Studio: [https://es.wikipedia.org/wiki/Open_Broadcaster_Software](https://es.wikipedia.org/wiki/Open_Broadcaster_Software)
 * Open Broadcaster Software | OBS: [https://obsproject.com/es](https://obsproject.com/es)
